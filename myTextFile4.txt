@@ -1,6 +1,2 @@
 Hej, jeg hedder Andreas. Dette er en fil til test af Git. 
 endnu en række.
-
-række
-row
-row2
