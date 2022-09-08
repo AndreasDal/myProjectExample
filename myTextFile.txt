@@ -1,0 +1,7 @@
+Hej, jeg hedder Andreas. Dette er en fil til test af Git. 
+Dette er en ændring til det oprindelige fil-indhold for at teste om Git tracker det ordentligt.
+Dette er anden ændring til filen.
+dette er 3. ændring på myFirstBranch efter at have kørt git add myTextFile.txt.
+hello
+tester rm funk
+ny rækker her

@@ -1,0 +1,126 @@
+[33mcommit e2bfd83f4af18c3d8fd57a244caefe2fea907708[m[33m ([m[1;36mHEAD -> [m[1;32mmyFirstBranch[m[33m)[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Thu Sep 8 22:10:00 2022 +0200
+
+    renaming file
+
+[33mcommit 7f22426152a8d916312c3acc2c3a9a9d0ca8b86a[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Thu Sep 8 22:00:11 2022 +0200
+
+    removing file
+
+[33mcommit dc6d835c4db715103384ec70c85fcba12180c831[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Thu Sep 8 21:42:47 2022 +0200
+
+    tjek igen
+
+[33mcommit ba99f7ab841d2fac8b65626bc4b48cec313ec120[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Thu Sep 8 21:40:51 2022 +0200
+
+    tjek files
+
+[33mcommit b3896a0d89c40bb372d958b79be051eadf9436f4[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Thu Sep 8 21:21:06 2022 +0200
+
+    add new benchmark
+
+[33mcommit 471251d5d4a92fcd8a835d2fcf8b7467d9db73f8[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 18:07:08 2022 +0200
+
+    første commit med vs code
+
+[33mcommit dee407cab070aa9407c1c75135e63ff300558c3c[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 17:53:52 2022 +0200
+
+    test
+
+[33mcommit 803b3ef0389382826f0fabe370bf1b8dcafa90f7[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 17:19:50 2022 +0200
+
+    rækker
+
+[33mcommit e3571a7694929ba5a0711cf999325d9e8e59743d[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 10:02:16 2022 +0200
+
+    file4
+
+[33mcommit a83c25b6510bba132d4c17f1f492b2105d50729e[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:49:18 2022 +0200
+
+    fil4 ny
+
+[33mcommit 511a1f326bb11a39a901cdb538233e021e70659e[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:48:28 2022 +0200
+
+    fil4
+
+[33mcommit 71e2c7923f5cf428558ecd362b1c1b5dd63e4839[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:47:30 2022 +0200
+
+    ny fil
+
+[33mcommit 4d3bf36f2b96e6124a46b28d11cc445cf599d8bd[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:44:23 2022 +0200
+
+    file1
+
+[33mcommit 230611bc6ad84b1f737a320a5f497b2cd0029b2e[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:43:20 2022 +0200
+
+    message
+
+[33mcommit 96cdef9ac6dc38fdd86027ef200ff7c66c7873d3[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:38:20 2022 +0200
+
+            modified:   myTextFile.txt
+    "this is a commit message"
+
+[33mcommit 4746ae03a9ea461246f9e9339eb49ab6e4771681[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:36:21 2022 +0200
+
+    ændriger implementeret som aftalt på møde med forretning
+
+[33mcommit ffaa34f1928d177239fc9b602878eb513b4e848b[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:31:30 2022 +0200
+
+    textfile3b
+
+[33mcommit 71be9ef7e1d3fa7200fb3a85a7547565338ac759[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:29:37 2022 +0200
+
+    ny commit myTextFile1 og 2
+
+[33mcommit 5e8ce4298651ed4501c30f12652a007a2484097b[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:27:25 2022 +0200
+
+    tilføjet række til myTextFile3
+
+[33mcommit 4274bb7845f2f7d53413e3de479996d120a20317[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Sat Sep 3 09:24:04 2022 +0200
+
+    tilføjet række til myTextFile2
+
+[33mcommit 5e03ef7e42920e5940b93f622051e45f42cd8c13[m[33m ([m[1;32mmaster[m[33m)[m
+Author: AndreasDal <guapo_dal@hotmail.com>
+Date:   Fri Sep 2 09:23:11 2022 +0200
+
+    Tilføjelse af ny linje til myTextFile. test af Git.
