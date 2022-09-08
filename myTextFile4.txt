@@ -2,4 +2,5 @@ Hej, jeg hedder Andreas. Dette er en fil til test af Git.
 endnu en række.
 hej der
 tjek stuff ..
-123
+Git er sejt
+en lille ændring
