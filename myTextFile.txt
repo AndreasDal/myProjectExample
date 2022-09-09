@@ -5,4 +5,4 @@ dette er 3. ændring på myFirstBranch efter at have kørt git add myTextFile.tx
 hello
 tester rm funk
 ny rækker her
-test test 
+test test test
