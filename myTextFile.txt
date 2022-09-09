@@ -6,3 +6,4 @@ hello
 tester rm funk
 ny rækker her
 test test test test
+tjek notepad editor when commiting
