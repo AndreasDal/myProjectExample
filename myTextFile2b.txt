@@ -1,3 +1,4 @@
 Linje tilføjet før git commit
 række 2
 række 3
+række 4 11/9
