@@ -10,3 +10,4 @@ tjek notepad editor when commiting
 new line
 extra line I forgot to add before commiting
 test tagging
+Hej Anne Sofie
