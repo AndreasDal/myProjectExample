@@ -1,3 +1,7 @@
 hej 
 Emilie
-21/9 ændring i master branch
+<<<<<<< HEAD
+21/9 ændring fælles
+=======
+21/9 ændring fælles
+>>>>>>> myFirstBranch
