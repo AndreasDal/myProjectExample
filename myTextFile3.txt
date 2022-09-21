@@ -2,3 +2,4 @@ hej
 Emilie
 21/9 ændring fælles
 hello 21/9 from branch
+new line from myFirstBranch
