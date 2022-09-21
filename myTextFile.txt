@@ -10,3 +10,12 @@ tjek notepad editor when commiting
 new line
 extra line I forgot to add before commiting
 test tagging
+<<<<<<< HEAD
+new line 17/9
+new line v2 17/9
+
+master line 19/9
+=======
+Hej Anne Sofie
+MyFirstBranch line 19/9
+>>>>>>> myFirstBranch
