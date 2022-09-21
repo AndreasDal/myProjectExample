@@ -2,4 +2,3 @@ hej
 Emilie
 21/9 ændring fælles
 hello 21/9 from branch
-Prøver at snyde og forsætte denne fil fra myFirstBranch uden at tilpasse så den stemmer med master
