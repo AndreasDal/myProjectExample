@@ -1,3 +1,4 @@
 test
 Hello, new line for myFirstB
 new remote line
+some local stuff
