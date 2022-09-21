@@ -1,8 +1,0 @@
-hej 
-Emilie
-21/9 ændring fælles
-fix
-<<<<<<< HEAD
-=======
-ændring
->>>>>>> myFirstBranch
