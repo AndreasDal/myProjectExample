@@ -18,4 +18,5 @@ master line 19/9
 =======
 Hej Anne Sofie
 MyFirstBranch line 19/9
->>>>>>> myFirstBranch
+<<<<<<< HEAD
+22/9 common
