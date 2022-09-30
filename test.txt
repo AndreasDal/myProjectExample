@@ -6,3 +6,4 @@ hey from myFB 25/9
 rebase test: newBranch 25/9
 test rebase: myFirstBranch 25/9
 change two on 30/9
+change two on 30/9 del 2
