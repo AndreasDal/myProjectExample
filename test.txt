@@ -5,12 +5,9 @@ some local stuff
 hey from myFB 25/9
 rebase test: newBranch 25/9
 test rebase: myFirstBranch 25/9
-<<<<<<< HEAD
 Hello on 3/10
 Hey on 3/10
-=======
 change two on 30/9
 change two on 30/9 del 2
 change two on 30/9 del 3
 change two on 30/9 del 4
->>>>>>> f520532a3174739bed8a8998a73767c1b7d28fa7
