@@ -1,0 +1,11 @@
+test
+Hello, new line for myFirstB
+new remote line
+some local stuff
+hey from myFB 25/9
+rebase test: newBranch 25/9
+test rebase: myFirstBranch 25/9
+change two on 30/9
+change two on 30/9 del 2
+change two on 30/9 del 3
+change two on 30/9 del 4
