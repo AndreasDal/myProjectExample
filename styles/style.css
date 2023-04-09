@@ -1,0 +1,48 @@
+/*#ListDescr{
+    color: rgb(150, 0, 255);
+    width: 500px;
+    border: 1px solid black;
+    padding: 10px;
+}*/
+
+a:hover {
+    background-color: yellow;
+    color: rgb(255, 0, 0);
+}
+
+html {
+    font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+    background-color: #00539f;
+  }
+
+h1 {
+    font-size: 100px;
+    font-family: 'Tangerine', serif;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+    color: #7a1175;
+    /* color: #00539f; */
+    text-shadow: 10px 10px 10px #937488;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #f9b453;
+    padding: 30px 30px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+  
